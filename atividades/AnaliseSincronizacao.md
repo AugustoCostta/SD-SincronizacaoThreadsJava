@@ -122,4 +122,3 @@ Conclui-se que a sincronização baseada em eventos é a abordagem mais adequada
 ---
 
 **Data da análise:** 06 de novembro de 2025  
-**Autor:** ChatGPT – Análise automatizada de logs Java
